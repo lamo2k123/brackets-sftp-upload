@@ -1,10 +1,11 @@
-define( function ( require, exports, module ) {
+define(function(require, exports, module) {
 	'use strict';
 	
 	module.exports = {
-		root: true,
-		de: true,
-		sv: true,
-		zh: true
+		root  : true,
+		de    : true,
+		sv    : true,
+		zh    : true,
+        ru  : true
 	};
-} );
+});
